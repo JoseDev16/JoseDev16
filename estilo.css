@@ -1,0 +1,34 @@
+#titulo{
+    background-color: aquamarine
+}
+
+#navPrincipal{
+    background-color: darkorchid
+}
+
+li{
+    background-color: azure;
+    display: inline;
+    
+        
+}
+
+aside{
+    float:right;
+    height:inherit;
+    background-color: darkgray;
+}
+#piePrincipal{
+    
+    background-color: darkslateblue;
+    clear: both;
+    
+}
+
+section{
+    background-color: aliceblue;
+    margin-right: 215px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
